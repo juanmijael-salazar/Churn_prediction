@@ -20,4 +20,5 @@ Una compañía de telecomunicaciones busca optimizar la retención de clientes m
 
 ![](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/images/Captura%20de%20pantalla%202025-01-05%20201026.png)
 
-![Ver completo...](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/Churn_Conclusiones.ipynb)
+
+[Ver completo...](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/Churn_Conclusiones.ipynb)
