@@ -20,5 +20,10 @@ Una compañía de telecomunicaciones busca optimizar la retención de clientes m
 
 ![](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/images/Captura%20de%20pantalla%202025-01-05%20201026.png)
 
+**CONCLUSIONES:**
+>Ambos modelos, SelectKBest y PCA, presentan altos valores en las métricas de entrenamiento, mientras que en las métricas de prueba se observa una notable diferencia. Esto indica una posible tendencia al sobreajuste, donde los modelos están aprendiendo de manera más efectiva solo de los datos de entrenamiento, pero no se desempeñan bien con datos nuevos.
+
+>Necesidad de Más Evaluación: Para incrementar aún más los valores de las métricas, sería beneficioso recopilar más información o evaluar características adicionales. Esto podría ayudar a enriquecer el modelo y mejorar su capacidad de generalización.
+
 
 [Ver completo...](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/Churn_Conclusiones.ipynb)
