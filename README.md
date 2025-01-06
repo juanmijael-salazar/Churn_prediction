@@ -19,3 +19,5 @@ Una compañía de telecomunicaciones busca optimizar la retención de clientes m
 >**El tiempo de ejecución del entrenamiento es importante por si se requiere escalar el proyecto. Por ejemplo si queremos trabajar con data real, que nos ingresa continuamente, ya que cada cierto periodo de tiempo se requerirá reentrenar el modelo, y de acuerdo a la cantidad de datos, consideramos que este aspecto es muy importante.**
 
 ![](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/images/Captura%20de%20pantalla%202025-01-05%20201026.png)
+
+![Ver completo...](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/Churn_Conclusiones.ipynb)
