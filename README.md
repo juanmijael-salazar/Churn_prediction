@@ -3,18 +3,17 @@ Una compañía de telecomunicaciones busca optimizar la retención de clientes m
 
 
 > **Análisis del gráfico de distribución de características de los features con respecto al Churn, podemos concluir que algunas variables no aportan mucho valor al modelo, debido a que es indiferente al valor que resulte, puede salir un Churn 0 ó Churn 1. No nos da un resultado claro. Estas variables son: telefono.servicio_telefono, telefono.varias_lineas_si y telefono.varias_lineas_sin servicio de telefono.**
-> 
+
 ![](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/images/Captura%20de%20pantalla%202025-01-05%20200752.png)
 
 
-> ** Verificando la correlación entre las variables seleccionadas. Consideramos que nuestro modelo puede mejorar solo considerando estas variables. Se debe tener en cuenta que si nuestro modelo mejora o se mantiene en accuracy, también sería positivo, ya que con menos variables, se esta consiguiendo los mismo valores, y esto es beneficioso en términos de producción.**
-> 
+> **Verificando la correlación entre las variables seleccionadas. Consideramos que nuestro modelo puede mejorar solo considerando estas variables. Se debe tener en cuenta que si nuestro modelo mejora o se mantiene en accuracy, también sería positivo, ya que con menos variables, se esta consiguiendo los mismo valores, y esto es beneficioso en términos de producción.**
+
 ![](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/images/Captura%20de%20pantalla%202025-01-05%20200907.png)
 
 
-> ***Hemos observado que hemos obtenido mejores resultados con nuestra data desbalanceada, de acuerdo a nuestro análisis desarrollado en las partes iniciales.
-* Se han considerado tres métricas para evaluar nuestros modelos, para todas las técnicas utilizadas. Estas métricas son: Accuracy, F1-score y time de entrenamiento modelo.
-
-* El tiempo de ejecución del entrenamiento es importante por si se requiere escalar el proyecto. Por ejemplo si queremos trabajar con data real, que nos ingresa continuamente, ya que cada cierto periodo de tiempo se requerirá reentrenar el modelo, y de acuerdo a la cantidad de datos, consideramos que este aspecto es muy importante.**
+**Hemos observado que hemos obtenido mejores resultados con nuestra data desbalanceada, de acuerdo a nuestro análisis desarrollado en las partes iniciales.**
+>**Se han considerado tres métricas para evaluar nuestros modelos, para todas las técnicas utilizadas. Estas métricas son: Accuracy, F1-score y time de entrenamiento modelo.**
+>**El tiempo de ejecución del entrenamiento es importante por si se requiere escalar el proyecto. Por ejemplo si queremos trabajar con data real, que nos ingresa continuamente, ya que cada cierto periodo de tiempo se requerirá reentrenar el modelo, y de acuerdo a la cantidad de datos, consideramos que este aspecto es muy importante.**
 
 ![](https://github.com/juanmijael-salazar/Churn_prediction/blob/main/images/Captura%20de%20pantalla%202025-01-05%20201026.png)
